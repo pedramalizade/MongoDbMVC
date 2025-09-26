@@ -1,0 +1,26 @@
+﻿@model Person
+
+@{
+    ViewBag.Title = "جزئیات";
+}
+
+<h2>جزئیات</h2>
+
+<div>
+    <h4>فرد</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>نام</dt>
+        <dd>@Model.Name</dd>
+
+        <dt>نام خانوادگی</dt>
+        <dd>@Model.Family</dd>
+
+        <dt>وب‌سایت</dt>
+        <dd>@Model.WebSite</dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("ویرایش", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("بازگشت به لیست", "Index")
+</p>

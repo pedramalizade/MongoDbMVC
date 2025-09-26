@@ -1,0 +1,30 @@
+﻿@model Person
+
+@{
+    ViewBag.Title = "حذف فرد";
+}
+
+<h2>حذف فرد</h2>
+
+<h3>آیا مطمئن هستید که می‌خواهید این فرد را حذف کنید؟</h3>
+<div>
+    <h4>فرد</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>نام</dt>
+        <dd>@Model.Name</dd>
+
+        <dt>نام خانوادگی</dt>
+        <dd>@Model.Family</dd>
+
+        <dt>وب‌سایت</dt>
+        <dd>@Model.WebSite</dd>
+    </dl>
+
+    @using (Html.BeginForm("DeleteConfirmed", "People", new { id = Model.Id }, FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+    <input type="submit" value="حذف" class="btn btn-danger" /> 
+    @Html.ActionLink("بازگشت", "Index", null, new { @class = "btn btn-default" })
+    }
+</div>
