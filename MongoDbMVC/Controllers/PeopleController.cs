@@ -1,9 +1,4 @@
-﻿using MongoDB.Bson;
-using MongoDbMVC.Models;
-using System.Net;
-using System.Web.Mvc;
-
-namespace MongoDbMVC.Controllers
+﻿namespace MongoDbMVC.Controllers
 {
     public class PeopleController : Controller
     {

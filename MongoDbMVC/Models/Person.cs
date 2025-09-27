@@ -1,6 +1,4 @@
-﻿using MongoDB.Bson;
-
-namespace MongoDbMVC.Models
+﻿namespace MongoDbMVC.Models
 {
     public class Person
     {

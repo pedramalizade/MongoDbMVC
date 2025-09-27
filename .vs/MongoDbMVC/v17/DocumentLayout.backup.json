@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E231265-9080-4FF1-ACE0-12661D394C5F}|MongoDbMVC\\MongoDbMVC.csproj|c:\\users\\asus\\source\\repos\\mongodbmvc\\mongodbmvc\\views\\people\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5E231265-9080-4FF1-ACE0-12661D394C5F}|MongoDbMVC\\MongoDbMVC.csproj|solutionrelative:mongodbmvc\\views\\people\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5E231265-9080-4FF1-ACE0-12661D394C5F}|MongoDbMVC\\MongoDbMVC.csproj|c:\\users\\asus\\source\\repos\\mongodbmvc\\mongodbmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E231265-9080-4FF1-ACE0-12661D394C5F}|MongoDbMVC\\MongoDbMVC.csproj|solutionrelative:mongodbmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E231265-9080-4FF1-ACE0-12661D394C5F}|MongoDbMVC\\MongoDbMVC.csproj|c:\\users\\asus\\source\\repos\\mongodbmvc\\mongodbmvc\\views\\people\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5E231265-9080-4FF1-ACE0-12661D394C5F}|MongoDbMVC\\MongoDbMVC.csproj|solutionrelative:mongodbmvc\\views\\people\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5E231265-9080-4FF1-ACE0-12661D394C5F}|MongoDbMVC\\MongoDbMVC.csproj|c:\\users\\asus\\source\\repos\\mongodbmvc\\mongodbmvc\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E231265-9080-4FF1-ACE0-12661D394C5F}|MongoDbMVC\\MongoDbMVC.csproj|solutionrelative:mongodbmvc\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E231265-9080-4FF1-ACE0-12661D394C5F}|MongoDbMVC\\MongoDbMVC.csproj|c:\\users\\asus\\source\\repos\\mongodbmvc\\mongodbmvc\\views\\people\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5E231265-9080-4FF1-ACE0-12661D394C5F}|MongoDbMVC\\MongoDbMVC.csproj|solutionrelative:mongodbmvc\\views\\people\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E231265-9080-4FF1-ACE0-12661D394C5F}|MongoDbMVC\\MongoDbMVC.csproj|c:\\users\\asus\\source\\repos\\mongodbmvc\\mongodbmvc\\views\\people\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5E231265-9080-4FF1-ACE0-12661D394C5F}|MongoDbMVC\\MongoDbMVC.csproj|solutionrelative:mongodbmvc\\views\\people\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E231265-9080-4FF1-ACE0-12661D394C5F}|MongoDbMVC\\MongoDbMVC.csproj|c:\\users\\asus\\source\\repos\\mongodbmvc\\mongodbmvc\\views\\people\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5E231265-9080-4FF1-ACE0-12661D394C5F}|MongoDbMVC\\MongoDbMVC.csproj|solutionrelative:mongodbmvc\\views\\people\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5E231265-9080-4FF1-ACE0-12661D394C5F}|MongoDbMVC\\MongoDbMVC.csproj|c:\\users\\asus\\source\\repos\\mongodbmvc\\mongodbmvc\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E231265-9080-4FF1-ACE0-12661D394C5F}|MongoDbMVC\\MongoDbMVC.csproj|solutionrelative:mongodbmvc\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E231265-9080-4FF1-ACE0-12661D394C5F}|MongoDbMVC\\MongoDbMVC.csproj|c:\\users\\asus\\source\\repos\\mongodbmvc\\mongodbmvc\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E231265-9080-4FF1-ACE0-12661D394C5F}|MongoDbMVC\\MongoDbMVC.csproj|solutionrelative:mongodbmvc\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E231265-9080-4FF1-ACE0-12661D394C5F}|MongoDbMVC\\MongoDbMVC.csproj|c:\\users\\asus\\source\\repos\\mongodbmvc\\mongodbmvc\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E231265-9080-4FF1-ACE0-12661D394C5F}|MongoDbMVC\\MongoDbMVC.csproj|solutionrelative:mongodbmvc\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E231265-9080-4FF1-ACE0-12661D394C5F}|MongoDbMVC\\MongoDbMVC.csproj|c:\\users\\asus\\source\\repos\\mongodbmvc\\mongodbmvc\\models\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E231265-9080-4FF1-ACE0-12661D394C5F}|MongoDbMVC\\MongoDbMVC.csproj|solutionrelative:mongodbmvc\\models\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,92 +47,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\MongoDbMVC\\Views\\People\\Delete.cshtml",
-              "RelativeDocumentMoniker": "MongoDbMVC\\Views\\People\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\MongoDbMVC\\Views\\People\\Delete.cshtml",
-              "RelativeToolTip": "MongoDbMVC\\Views\\People\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-26T15:05:12.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\MongoDbMVC\\Views\\People\\Edit.cshtml",
-              "RelativeDocumentMoniker": "MongoDbMVC\\Views\\People\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\MongoDbMVC\\Views\\People\\Edit.cshtml",
-              "RelativeToolTip": "MongoDbMVC\\Views\\People\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-26T15:04:25.565Z",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\MongoDbMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MongoDbMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\MongoDbMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MongoDbMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T18:48:40.889Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\MongoDbMVC\\Views\\People\\Create.cshtml",
-              "RelativeDocumentMoniker": "MongoDbMVC\\Views\\People\\Create.cshtml",
-              "ToolTip": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\MongoDbMVC\\Views\\People\\Create.cshtml",
-              "RelativeToolTip": "MongoDbMVC\\Views\\People\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-26T15:04:04.139Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\MongoDbMVC\\Views\\People\\Details.cshtml",
-              "RelativeDocumentMoniker": "MongoDbMVC\\Views\\People\\Details.cshtml",
-              "ToolTip": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\MongoDbMVC\\Views\\People\\Details.cshtml",
-              "RelativeToolTip": "MongoDbMVC\\Views\\People\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-26T15:03:38.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\MongoDbMVC\\Views\\People\\Index.cshtml",
-              "RelativeDocumentMoniker": "MongoDbMVC\\Views\\People\\Index.cshtml",
-              "ToolTip": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\MongoDbMVC\\Views\\People\\Index.cshtml",
-              "RelativeToolTip": "MongoDbMVC\\Views\\People\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-26T15:01:47.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\MongoDbMVC\\Models\\Person.cs",
-              "RelativeDocumentMoniker": "MongoDbMVC\\Models\\Person.cs",
-              "ToolTip": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\MongoDbMVC\\Models\\Person.cs",
-              "RelativeToolTip": "MongoDbMVC\\Models\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T14:59:41.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "PeopleController.cs",
               "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\MongoDbMVC\\Controllers\\PeopleController.cs",
               "RelativeDocumentMoniker": "MongoDbMVC\\Controllers\\PeopleController.cs",
               "ToolTip": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\MongoDbMVC\\Controllers\\PeopleController.cs",
               "RelativeToolTip": "MongoDbMVC\\Controllers\\PeopleController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAcwF0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T14:59:12.413Z",
+              "WhenOpened": "2025-09-27T18:48:17.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\MongoDbMVC\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "MongoDbMVC\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\MongoDbMVC\\Models\\Person.cs",
+              "RelativeToolTip": "MongoDbMVC\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T18:48:09.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\MongoDbMVC\\Models\\DataManager.cs",
+              "RelativeDocumentMoniker": "MongoDbMVC\\Models\\DataManager.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\MongoDbMVC\\Models\\DataManager.cs",
+              "RelativeToolTip": "MongoDbMVC\\Models\\DataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T18:47:48.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\MongoDbMVC\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "MongoDbMVC\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\MongoDbMVC\\GlobalUsing.cs",
+              "RelativeToolTip": "MongoDbMVC\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T18:47:37.668Z",
               "EditorCaption": ""
             }
           ]

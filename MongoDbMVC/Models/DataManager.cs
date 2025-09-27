@@ -1,8 +1,4 @@
-﻿using MongoDB.Bson;
-using MongoDB.Driver;
-using MongoDB.Driver.Builders;
-
-namespace MongoDbMVC.Models
+﻿namespace MongoDbMVC.Models
 {
     public class DataManager
     {
