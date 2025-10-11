@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E231265-9080-4FF1-ACE0-12661D394C5F}|MongoDbMVC\\MongoDbMVC.csproj|c:\\users\\asus\\source\\repos\\mongodbmvc\\mongodbmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E231265-9080-4FF1-ACE0-12661D394C5F}|MongoDbMVC\\MongoDbMVC.csproj|solutionrelative:mongodbmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E231265-9080-4FF1-ACE0-12661D394C5F}|MongoDbMVC\\MongoDbMVC.csproj|c:\\users\\asus\\source\\repos\\mongodbmvc\\mongodbmvc\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E231265-9080-4FF1-ACE0-12661D394C5F}|MongoDbMVC\\MongoDbMVC.csproj|solutionrelative:mongodbmvc\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E231265-9080-4FF1-ACE0-12661D394C5F}|MongoDbMVC\\MongoDbMVC.csproj|c:\\users\\asus\\source\\repos\\mongodbmvc\\mongodbmvc\\models\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E231265-9080-4FF1-ACE0-12661D394C5F}|MongoDbMVC\\MongoDbMVC.csproj|solutionrelative:mongodbmvc\\models\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 747,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +35,49 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\MongoDbMVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MongoDbMVC\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\MongoDbMVC\\Models\\Product.cs",
+              "RelativeToolTip": "MongoDbMVC\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T18:48:52.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\MongoDbMVC\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "MongoDbMVC\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\MongoDbMVC\\Models\\Person.cs",
+              "RelativeToolTip": "MongoDbMVC\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T18:48:30.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\MongoDbMVC\\Models\\DataManager.cs",
+              "RelativeDocumentMoniker": "MongoDbMVC\\Models\\DataManager.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\MongoDbMVC\\MongoDbMVC\\Models\\DataManager.cs",
+              "RelativeToolTip": "MongoDbMVC\\Models\\DataManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T18:48:24.991Z",
+              "EditorCaption": ""
             }
           ]
         }
